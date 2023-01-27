@@ -1,31 +1,31 @@
 {
-    "name": "laravel-enso/pdf",
+    "name": "cgdsoftware/pdf",
     "description": "PDF for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "cgdsoftware",
         "pdf",
         "laravel"
     ],
-    "homepage": "https://github.com/laravel-enso/pdf",
+    "homepage": "https://github.com/cgdsoftware/pdf",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Ionut Pirvulescu",
             "email": "ionut.pirvulescu@earthlink.ro",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         },
         {
             "name": "Mihai Ocneanu",
             "email": "mihai.ocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         },
         {
             "name": "Adrian Ocneanu",
             "email": "aocneanu@gmail.com",
-            "homepage": "https://laravel-enso.com",
+            "homepage": "https://cgdsoftware.com",
             "role": "Developer"
         }
     ],
