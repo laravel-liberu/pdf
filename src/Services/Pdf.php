@@ -8,7 +8,7 @@ use Illuminate\Support\Facades\App;
 
 class Pdf
 {
-    private PdfWrapper $pdf;
+    private readonly PdfWrapper $pdf;
 
     public function __construct()
     {
