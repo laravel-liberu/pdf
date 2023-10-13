@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Pdf\Contracts;
+namespace LaravelLiberu\Pdf\Contracts;
 
 interface SavesPdf
 {

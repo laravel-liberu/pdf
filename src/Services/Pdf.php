@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Pdf\Services;
+namespace LaravelLiberu\Pdf\Services;
 
 use Barryvdh\Snappy\PdfWrapper;
 use Illuminate\Http\Response;

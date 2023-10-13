@@ -10,7 +10,7 @@ PDF utility package for [Laravel Liberu](https://github.com/laravel-enso/Liberu)
 
 This package can work independently of the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
-For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
+For live examples and demos, you may visit [liberu.co.uk](https://www.liberu.co.uk)
 
 [![Watch the demo](https://laravel-enso.github.io/pdf/screenshots/bulma_001_thumb.png)](https://laravel-enso.github.io/pdf/screenshots/bulma_001.png)
 
@@ -18,7 +18,7 @@ For live examples and demos, you may visit [laravel-enso.com](https://www.larave
 
 ### Installation, Configuration & Usage
 
-Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/backend/pdf.html)
+Be sure to check out the full documentation for this package available at [docs.liberu.co.uk](https://docs.liberu.co.uk/backend/pdf.html)
 
 ### Contributions
 
